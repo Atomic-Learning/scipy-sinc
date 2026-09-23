@@ -4,7 +4,7 @@ $$
 \mathrm{sinc}(x) = \frac{\sin(\pi x)}{\pi x}
 $$
 
-The function can be called on a single value:
+where $x$ is measured in radians. The function can be called on a single value:
 
 ```py-cell
 import scipy.special
