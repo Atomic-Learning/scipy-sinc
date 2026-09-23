@@ -1,22 +1,24 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Scipy: The sinc() Function",
+    "slug": "scipy-sinc",
+    "description": "How SciPy implements the sinc function, including how it can be applied to an array of values.",
     "authors": [
-        "",
-        ""
+        "chris-cooling",
+        "giorgia-del-missier"
     ],
     "tags": [
-        "",
-        ""
+        "python",
+        "scipy"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "scipy-special-functions",
+        "maths-permutations",
+        "python-importing-from-submodules-in-packages",
+        "programming-calling-functions",
+        "numpy-arrays"
     ],
     "related": [
-        "",
-        ""
+        "example-performance-comparison-sinc-function-scipy"
     ]
 }
