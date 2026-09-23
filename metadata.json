@@ -20,5 +20,9 @@
     ],
     "related": [
         "example-performance-comparison-sinc-function-scipy"
+    ],
+    "python_packages": [
+        "scipy",
+        "numpy"
     ]
 }

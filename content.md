@@ -6,7 +6,7 @@ $$
 
 The function can be called on a single value:
 
-```python
+```py-cell
 import scipy.special
 
 x = 0.5
@@ -16,10 +16,11 @@ print(result)
 
 It can also be applied to an array of values:
 
-```python
+```py-cell
 import numpy as np
+from scipy.special import sinc
 
 x = np.array([0.5, 1.0, 1.5])
-result = scipy.special.sinc(x)
+result = sinc(x)
 print(result)
 ```
