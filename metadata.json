@@ -16,7 +16,8 @@
         "maths-permutations",
         "python-importing-from-submodules-in-packages",
         "programming-calling-functions",
-        "numpy-arrays"
+        "numpy-arrays",
+        "python-scientific-notation"
     ],
     "related": [
         "example-performance-comparison-sinc-function-scipy"
